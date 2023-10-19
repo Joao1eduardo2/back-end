@@ -1,25 +1,31 @@
 {
-    "usuarios":[
-        {
-            "id": 1,
-            "nome": "Gallo Boy",
-            "email": "galo@boy.com",
-            "senha": "123456"
-        },
-        {
-            "id": 2,
-            "nome": "Indiano da Barra",
-            "email": "indiano@barra.com",
-            "senha": "654321"
-        }
-    ],
-    "produtos":[
-        {
-            "id": 1,
-            "nome": "Café",
-            "descricao": "Café tipo arábica",
-            "validade": "2024-12-31",
-            "preco": 16.59
-        }
-    ]
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Gallo Boy",
+      "email": "galo@boy.com",
+      "senha": "123456"
+    },
+    {
+      "id": 2,
+      "nome": "Indiano da Barra",
+      "email": "indiano@barra.com",
+      "senha": "654321"
+    },
+    {
+      "nome": "Glauber Antônio",
+      "email": "glauber.tonio7550@gmail.com",
+      "senha": "batata123",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Café",
+      "descricao": "Café tipo arábica",
+      "validade": "2024-12-31",
+      "preco": 16.59
+    }
+  ]
 }
